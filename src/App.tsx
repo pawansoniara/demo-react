@@ -22,7 +22,7 @@ const App: React.FC = () => {
         <IonContent>
           <IonCard>
             <IonCardHeader>
-              <IonCardSubtitle>SWIRE</IonCardSubtitle>
+              <IonCardSubtitle>MainPage</IonCardSubtitle>
               <IonCardTitle>Under Construction</IonCardTitle>
             </IonCardHeader>
           </IonCard>
